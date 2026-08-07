@@ -27,3 +27,4 @@
 ##### create self-signed certificate
 `openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout nginx-selfsigned.key -out nginx-selfsigned.crt`
 # i removed some lignes from Github
+# this ligne is added by SSH
