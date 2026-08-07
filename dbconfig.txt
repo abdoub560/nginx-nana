@@ -1,0 +1,2 @@
+hello, this is db config
+i hope this won't be tracked
